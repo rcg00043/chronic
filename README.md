@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
