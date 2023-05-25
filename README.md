@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Mkdocs annotations fixes (#7600)
