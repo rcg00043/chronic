@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
