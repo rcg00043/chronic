@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Retry once for Docker CI failures (#8164)
