@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
