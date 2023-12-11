@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
