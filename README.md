@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Update Docs Home and Neural Magic pages (#7243)
