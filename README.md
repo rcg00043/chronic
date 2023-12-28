@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
