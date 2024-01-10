@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Updating a typo on paddlepaddle.md (#9108)
