@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Move Explorer tests to scheduled CI (#8305)
