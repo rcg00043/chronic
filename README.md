@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Clean up unused imgsz (#7771)
