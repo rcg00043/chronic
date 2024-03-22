@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
