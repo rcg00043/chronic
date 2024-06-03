@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
