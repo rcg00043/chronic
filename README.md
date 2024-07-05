@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add OBB benchmarks to CI (#7777)
