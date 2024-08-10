@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Fix Multi-GPU resume bug (#7328)
