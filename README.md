@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update the heatmap module code + docs (#7045)
