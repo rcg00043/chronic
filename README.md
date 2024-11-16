@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
