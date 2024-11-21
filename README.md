@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Fix cmake requirements for ARM64 (#8589)
