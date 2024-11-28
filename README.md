@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Fix PIL show() and save() (#8202)
